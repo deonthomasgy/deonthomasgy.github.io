@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: base
 title: Deon Thomas
 ---
 Hello world
